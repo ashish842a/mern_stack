@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🧾 MERN Stack Dynamic Form with PDF & API Integration
 
 This project is a full-featured MERN stack (MongoDB, Express, React, Node.js) application that includes a user data collection form with 14 fields, cascading dropdowns, CRUD functionality, PDF generation, API integration for age prediction, and e-signature support.
